@@ -3,7 +3,7 @@
    this.homeState = homeState
    this.training = training
 }
-BoardMember.prototype.vito = function () {
+BoardMember.prototype.veto = function () {
      return 'No, I must disagree'
    }
    this.approve = function(){
